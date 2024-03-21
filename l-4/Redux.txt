@@ -1,0 +1,9 @@
+Redux->it is a way to manage the states
+    ->it has a centrelized storage made up of slices
+    ->slices are the portions of data where states are present
+
+To create a slice we have to give the ->name of the slice
+                                      ->intial state of the slice
+                                      -> reducer/functionality of the slice
+
+to create a slice we have a inbuilt function -> createSlice()
